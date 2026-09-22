@@ -1,0 +1,1 @@
+import{Yt as e,hs as i}from"./DutzFsdX.js";var t=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:300});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{t};
